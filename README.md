@@ -1,2 +1,2 @@
 # hello-world
-my hello-world for Gir
+my hello-world for Git
